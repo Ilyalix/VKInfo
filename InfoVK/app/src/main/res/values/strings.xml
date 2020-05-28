@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InfoVK</string>
+    <string name="id">Введите id</string>
+    <string name="search">Search!</string>
+    <string name="result">Результат будет отображен здесь!</string>
+    <string name="error_message">Произошла ошибка, попробуйте еще раз!</string>
+</resources>
